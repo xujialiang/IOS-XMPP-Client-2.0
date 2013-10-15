@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[XmppHelper(XmppVCard) updateVCard:success:fail:]:XmppHelper+XmppVCard.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "vcard.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[XmppHelper(Roster) getCompleteRoster:]:XmppHelper+Roster.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ChatSessionViewController sendmsg]:ChatSessionViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.userinfo.jid.bare">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ChangeLocal2ViewController viewDidLoad]:ChangeLocal2ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "+[DbHelper Delete:predicate:]:DbHelper.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "fetchResult.count">
+            </PersistentString>
+            <PersistentString
+               value = "[fetchResult count]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ChatSessionViewController loadrecord]:ChatSessionViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MainViewController ResetMsgCount:]:MainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.viewControllers">
+            </PersistentString>
+            <PersistentString
+               value = "self.tabBarController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[XmppHelper(XmppVCard) xmppvCardTempModule:didReceivevCardTemp:forJID:]:XmppHelper+XmppVCard.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[XmppHelper(Roster) xmppRosterDidPopulate:]:XmppHelper+Roster.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.Rosters">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MessageListViewController viewDidLoad]:MessageListViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MsgListViewController tableView:cellForRowAtIndexPath:]:MsgListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[[XmppHelper Instance] Messages]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[RegViewController saveUserInfo]:RegViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "user.password">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[XmppHelper(Login) xmppStreamDidAuthenticate:]:XmppHelper+Login.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "card.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[NewFriendViewController viewDidLoad]:NewFriendViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[XmppHelper(Message) xmppStream:didReceiveMessage:]:XmppHelper+Message.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.Messages">
+            </PersistentString>
+            <PersistentString
+               value = "message.prettyXMLString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MainViewController tabBar:didSelectItem:]:MainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "item.index">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ChatViewController rowsForBubbleTable:]:ChatViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ChangeLocal1ViewController tableView:didSelectRowAtIndexPath:]:ChangeLocal1ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MessageListViewController viewWillAppear:]:MessageListViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ProfileViewController viewDidLoad]:ProfileViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "card.jid">
+            </PersistentString>
+            <PersistentString
+               value = "card.photo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ChatSessionViewController refreshmsg:]:ChatSessionViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ChatSessionViewController viewDidLoad]:ChatSessionViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.userinfo.jid">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[DbHelper DeleteChatSession:predicate:]:DbHelper.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MainViewController fetchChatSession]:MainViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ChatSessionViewController keyboardWillShow:]:ChatSessionViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self.view.frame.size]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ChangeLocal2ViewController loaddata:]:ChangeLocal2ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[XMPPvCardTempModule vCardTempForJID:shouldFetch:]:XMPPvCardTempModule.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[LoginViewController btnLogin:]:LoginViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MsgListViewController tableView:numberOfRowsInSection:]:MsgListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "count">
+            </PersistentString>
+            <PersistentString
+               value = " [messages.allKeys count]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__32-[LoginViewController btnLogin:]_block_invoke:LoginViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "card.XMLString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[XmppHelper(Login) createVcard:]:XmppHelper+Login.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "card.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DetailViewController prepareForSegue:sender:]:DetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.usercard.jid.user">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[WeiboHelper sinaweiboDidLogIn:]:WeiboHelper.m">
+      </ContextState>
+      <ContextState
+         contextName = "+[DbHelper Update:]:DbHelper.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "fetchResult.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[XmppHelper xmppStream:didReceivePresence:]:XmppHelper.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[NewFriendViewController tableView:cellForRowAtIndexPath:]:NewFriendViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "newfriend.jid">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ChangeLocal2ViewController tableView:didSelectRowAtIndexPath:]:ChangeLocal2ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "card.local">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[DbHelper Insert:]:DbHelper.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[entity allKeys]">
+            </PersistentString>
+            <PersistentString
+               value = "managedObjectContext">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MessageListViewController tableView:numberOfRowsInSection:]:MessageListViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

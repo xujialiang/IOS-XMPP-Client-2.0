@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="2057" systemVersion="12D78" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="ChatHistory" representedClassName="ChatHistory" syncable="YES">
+        <attribute name="from" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isread" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="message" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="to" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="ChatSession" representedClassName="ChatSession" syncable="YES">
+        <attribute name="key" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lastmsg" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time" optional="YES" attributeType="Date" syncable="YES"/>
+    </entity>
+    <entity name="NewFriend" representedClassName="NewFriend" syncable="YES">
+        <attribute name="jid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="status" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="UserInfo" representedClassName="UserInfo" syncable="YES">
+        <attribute name="account" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="password" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sinaid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sinatoken" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="ChatHistory" positionX="160" positionY="192" width="128" height="120"/>
+        <element name="ChatSession" positionX="160" positionY="192" width="128" height="90"/>
+        <element name="UserInfo" positionX="160" positionY="192" width="128" height="105"/>
+        <element name="NewFriend" positionX="160" positionY="192" width="128" height="75"/>
+    </elements>
+</model>

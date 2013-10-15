@@ -1,0 +1,38 @@
+//
+// Prefix header for all source files of the 'iShareSomething' target in the 'iShareSomething' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+#import "SinaWeibo.h"
+#import <objc/runtime.h>
+
+#define Host @"127.0.0.1"
+#define Domain @"@im.xujialiang.net"
+
+
+
+#define kAppKey             @"2750066678"
+#define kAppSecret          @"b6ec0d32eff854e1c3257b8cd6e4d645"
+#define kAppRedirectURI     @"http://im.xujialiang.net"
+
+#ifndef kAppKey
+#error
+#endif
+
+#ifndef kAppSecret
+#error
+#endif
+
+#ifndef kAppRedirectURI
+#error
+#endif
